@@ -1,0 +1,26 @@
+Premise
+4 drones leading the prince into alien territory
+each drone controlled individually
+waves of enemies must be completely destroyed prior to the prince showing up
+
+
+Outline
+-[ ]- Mob Class
+	-[ ]- movement patterns
+
+-[ ]- Animation Class
+
+-[ ]- Sprites/Images
+	-[ ]- drones (8x8 or programmatic circles)
+	-[ ]- prince's ship(32x16)
+	-[ ]- enemies (8x8 and 16x16)
+	-[ ]- boss (32x32)
+
+	maybe:
+	-[ ]- animation sequence opening
+	-[ ]- rpg style image/text box (32x32)
+
+-[ ]- Enemies
+	-[ ]- alien creatures
+	-[ ]- boss
+-[ ]- 
